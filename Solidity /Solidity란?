@@ -5,3 +5,6 @@
 - 솔리디티(***Solidity***) 개발환경 :
     - ***remix, IntelliJ IDEA Plugin, VSCode Extension, Etheratom*** 등
     - 코드를 컴파일, 배포, 테스트, 디버깅해 주는 ***Truffle***이나 ***Hardhat***, 그리고 로컬 환경에 블록체인 테스트넷을 사용할 수 있게 해 주는 ***Ganache***를 함께 사용해야 함. 별도의 서버 없이 컴파일러와 런타임 환경을 제공하는 브라우저 기반의 ***IDE***인 ***Remix***가 편리함
+
+- ***Remix***
+    - ***Ethereum***과 같은 블록체인의 ***SmartContract***를 개발, 배포, 관리할 수 있게도와주는 통합 개발 환경(IDE)
